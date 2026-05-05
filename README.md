@@ -18,7 +18,6 @@ This dashboard supports **data-driven HR decision making** and helps improve emp
 ## 📊 Dashboard Preview
 
 ## 📊 Key Insights from HR Analytics Dashboard
-## 📊 Key Insights from HR Analytics Dashboard
 
 ### 👥 Overall Workforce Summary
 - Total Employees: **1,470**
