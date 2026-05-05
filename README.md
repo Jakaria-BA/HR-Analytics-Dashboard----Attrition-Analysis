@@ -102,5 +102,22 @@ This dashboard supports **data-driven HR decision making** and helps improve emp
 💡 **Insight:** Male employees represent a larger share of total attrition.
 
 ## ✅ Business Recommendations
+- 🚀 **Improve onboarding and first-year employee experience**  
+  Strengthen induction, mentoring, and regular check-ins to reduce early-stage attrition.
+
+- 💰 **Review salary structure for low-income employees**  
+  Analyse compensation for employees in lower salary slabs to improve retention.
+
+- 🎯 **Focus retention strategies on Sales & R&D departments**  
+  Prioritise departments with higher attrition counts and rates.
+
+- 🧑‍🔬 **Support high-risk roles**  
+  Give extra attention to roles such as **Laboratory Technician** and **Sales Executive**.
+
+- 📚 **Provide career growth programs for younger employees**  
+  Offer training, promotion pathways, and skill development opportunities.
+
+- 📊 **Use department-level analysis for better decision making**  
+  Apply slicers and filters to identify department-specific attrition patterns.
 
 ## 📁 Project Files
