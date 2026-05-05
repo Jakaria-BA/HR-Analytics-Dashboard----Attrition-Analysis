@@ -118,5 +118,11 @@ This dashboard supports **data-driven HR decision making** and helps improve emp
 
 - 📊 **Use department-level analysis for better decision making**  
   Apply slicers and filters to identify department-specific attrition patterns.
+## 9. Data Source
+
+- 📂 **Dataset Name:** HR Analytics Dataset  
+- 🌐 **Source:** [Kaggle - HR Analytics Dataset](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)  
+- 📊 **Description:**  
+  This dataset contains employee-level information used to analyse workforce patterns and attrition trends. It includes key attributes such as age, department, job role, salary, education, and attrition status, enabling data-driven HR insights. :contentReference[oaicite:0]{index=0}
 
 ## 📁 Project Files
