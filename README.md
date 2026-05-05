@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard----Attrition-Analysis
 # HR Analytics Dashboard
 
 ## 📌 Project Overview
