@@ -11,6 +11,9 @@ The goal of this project is to help organisations understand:
 This dashboard supports **data-driven HR decision making** and helps improve employee retention strategies.
 
 ## 🛠️ Tools Used
+- 📊 Power BI (Dashboard & Data Visualization)  
+- 🗄️ Data Modeling (Relationships, Measures, DAX)  
+- 📈 Data Analysis (HR Metrics & KPIs)  
 
 ## 📊 Dashboard Preview
 
